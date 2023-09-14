@@ -1,0 +1,20 @@
+Analizador de Inmunología
+
+- HostQuery.
+- Control de Calidad.
+- ASTM Modular.
+
+**********
+Change Log
+**********
+Fecha: 15-01-2020
+Version: 1.0.0
+Precondiciones: 
+	- Java 8
+	- Aplicacion Middleware Version 1.11
+	- Aplicacion Driver Connection Manager.
+	- Base de Datos Postgres.
+Cambios:
+	- Creación
+	
+	

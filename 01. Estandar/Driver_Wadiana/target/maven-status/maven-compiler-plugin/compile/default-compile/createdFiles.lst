@@ -1,0 +1,3 @@
+net\cltech\middleware\domain\DriverParameters.class
+net\cltech\middleware\drivers\app\AnalyzerDriver.class
+net\cltech\middleware\drivers\app\AnalyzerDriver$UpdateWorker.class
